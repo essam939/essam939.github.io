@@ -4,17 +4,17 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a29e8b22a08aa0274b027931eec216c4",
-"index.html": "0d79fa71f3f5d84d5fafc503d1b1750c",
-"/": "0d79fa71f3f5d84d5fafc503d1b1750c",
-"main.dart.js": "dd8470abff8836525b3a392e80410bcf",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "c0cd836bcadb385d5a06545eef0a6975",
+"/": "c0cd836bcadb385d5a06545eef0a6975",
+"main.dart.js": "fd27245317d7c916a9faf66770712d4e",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "10ad758e43e629d790aa4553fba634a1",
 "icons/Icon-192.png": "002516a4b23f153b7ac2928347c377b1",
 "icons/Icon-512.png": "84780d2dfe97536ad1b68213079cc78b",
 "manifest.json": "588fc75df6c25dc7d07bd4f46b870d7d",
-"assets/AssetManifest.json": "d2bde1efb050b6bf16560564b624bdff",
-"assets/NOTICES": "239c39b7aad47e69a97e5d374be9280b",
-"assets/data.json": "135c7c239d3f6c79680019e179dd2695",
+"assets/AssetManifest.json": "324def6a5b2af544074dd7bc00ee492e",
+"assets/NOTICES": "a917e8b559dfe98ef6adad99868bdcf9",
+"assets/data.json": "62834702f2a8e2de8333864cae445ee4",
 "assets/FontManifest.json": "eb13a0d169d41e78994c5d6eb9075409",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
@@ -37,10 +37,11 @@ const RESOURCES = {
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf": "e3c361ea8d1c215805439ce0941a1c8d",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf": "946a26954ab7fbd7ea78df07795a6cbc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d8e9b6203ce2657c991f0b339ccb3a6d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "48ce1bb8a42776caa951cb782d277730",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "99f29024aee8f4672a47cc3a81b9b84a",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
+"assets/shaders/ink_sparkle.frag": "541d30bdf70c059f7fc7b7f540a2b614",
 "assets/fonts/agustina/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
 "assets/fonts/montserrat/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -50,20 +51,20 @@ const RESOURCES = {
 "assets/fonts/poppins/Poppins-Bold.ttf": "a3e0b5f427803a187c1b62c5919196aa",
 "assets/fonts/poppins/Poppins-SemiBold.ttf": "4cdacb8f89d588d69e8570edcbe49507",
 "assets/fonts/poppins/Poppins-Italic.ttf": "5e956c44060a7b3c0e39819ae390ab15",
-"assets/assets/projects/medkit.png": "915431d4f438d5bc7c642fed8dbfb419",
-"assets/assets/projects/medkitB.png": "058d00d54c3ee8a953442d0cf3bfb866",
+"assets/assets/projects/medkit.png": "0f0ab49007e9eedd0b576a3226601646",
+"assets/assets/projects/medkitB.png": "de104c261e4ba455c6aa93767c8d29f1",
 "assets/assets/projects/flutter.png": "0b5a2f8d3f4d173805affaf9f84f6c87",
 "assets/assets/projects/earbender.png": "64099d76f6c7df0fac39c222293fd473",
 "assets/assets/projects/java.png": "62be9fb6e1d7166e9cbeeed913096752",
-"assets/assets/projects/hereiam.png": "cbb5a77a5e19e1224080dcaf0e3b5407",
+"assets/assets/projects/hereiam.png": "9a252bd6154172774b4028d3f7319d48",
 "assets/assets/projects/android.png": "765adf924dae4d5e67bfb640bcd05c48",
-"assets/assets/projects/quran.png": "55e8a0c928bc192f682ca0e61cb61ce3",
-"assets/assets/projects/hereiamB.png": "16ee68a57fbf0eae5c50e1b8376064df",
+"assets/assets/projects/quran.png": "c9065cde4ba3b8a5304f9a417508cdbb",
+"assets/assets/projects/hereiamB.png": "9590488ba3ccd9e71b7beb4c68df47ea",
 "assets/assets/projects/messenger.png": "f28ead750653b586737ed63db6f2d53a",
-"assets/assets/projects/covid.png": "27c600501d335324e8fce4c5d6c22b76",
-"assets/assets/projects/quranB.png": "3cf070457b64cf93d11ad2073bff88e2",
-"assets/assets/projects/snackbar.png": "426d7d3320b4207468e1dec6322b3b08",
-"assets/assets/projects/covidB.png": "1884ac58a9de5d81e995f1e46e4b7398",
+"assets/assets/projects/covid.png": "fb17a527f40626c62b1653b6f6fd5cae",
+"assets/assets/projects/quranB.png": "c87376a73bd0804848ca9c055b513707",
+"assets/assets/projects/snackbar.png": "f0a67fcc7196d80346bbfcbddbca94da",
+"assets/assets/projects/covidB.png": "82a2d2c6f1ac371a8de33ddb83a5a911",
 "assets/assets/work/cui.png": "661782ab644ee0e892877bfbfab680cd",
 "assets/assets/work/dsc.png": "bd954ceeeb42b91899ebe1c3b0d79850",
 "assets/assets/work/flutterIsl.png": "148f50141bd4223e87dcaa57f6936d4a",
@@ -78,10 +79,10 @@ const RESOURCES = {
 "assets/assets/services/blog.png": "5e1cbb2c67e2b8ea9ae4bcce0705d2a4",
 "assets/assets/services/open.png": "4a5996597d32b06d91183f0860c29aab",
 "assets/assets/services/ui.png": "3cf727247752b730a05f51fe0177036f",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -89,7 +90,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -188,9 +188,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })

@@ -63,10 +63,10 @@
     },
     "projects": [
         {
-            "title": "Awesome SnackBar",
-            "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
+            "title": "money_converter",
+            "iconUrl": "https://pub.dev/packages/money_converter",
             "bannerUrl": "assets/projects/medkitB.png",
-            "description": "A dart package including a wholesome experience of snackbar in your applications."
+            "description": "A Flutter plugin for converting the currencies."
         },
         {
             "title": "MedKit",

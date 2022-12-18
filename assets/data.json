@@ -23,7 +23,7 @@
         }
     ],
     "aboutMeHeadline": "I'm Mohamed Essam, a Flutter developer, Technical Writer and UI/UX Designer.",
-    "aboueMeDetails": "Senior mobile application developer with over 3 years of experience in flutter, react native and ionic. Excellent reputation for resolving problems and improving customer satisfaction. Well-versed in inspecting finished buildings to maintain alignment with quality standards. Enthusiastic for new  technologies eager to contribute to team success, attention to detail and excellent organizational  skills. Clear understanding of design patterns. Motivated to learn, grow and excel in mobile development.",
+    "aboueMeDetails": "Senior mobile application developer with 4 years of experience in flutter, react native and ionic. Excellent reputation for resolving problems and improving customer satisfaction. Well-versed in inspecting finished buildings to maintain alignment with quality standards. Enthusiastic for new  technologies eager to contribute to team success, attention to detail and excellent organizational  skills. Clear understanding of design patterns. Motivated to learn, grow and excel in mobile development.",
     "technologies": [
         "Flutter",
         "Dart",
@@ -66,67 +66,31 @@
             "title": "money_converter",
             "iconUrl": "https://pub.dev/packages/money_converter",
             "bannerUrl": "assets/projects/medkitB.png",
-            "description": "A Flutter plugin for converting the currencies."
+            "description": "A very unique dart package to convert the currencies in flutter. Available at pub.dev now!"
         },
         {
-            "title": "MedKit",
-            "iconUrl": "https://drive.google.com/file/d/1nr1FHUkACm5cg2MpXKNftUeKw888NcJt/view?usp=sharing",
+            "title": "Naqla",
+            "iconUrl": "https://play.google.com/store/apps/details?id=co.spiritude.naqla",
             "bannerUrl": "assets/projects/medkitB.png",
-            "description": "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels."
+            "description": "Naqla is a construction waste container application, where you can choose the container size and rent it for 10 consecutive days"
         },
         {
-            "title": "The Holy Qur'an",
-            "iconUrl": "https://drive.google.com/file/d/1jpkSQyGZP5EWPCIfRz-dU9TARXHN2P5o/view?usp=sharing",
+            "title": "Dgtera Flex",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.dgtera.flex",
             "bannerUrl": "assets/projects/quranB.png",
-            "description": "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md"
+            "description": "Dgtera is an easy-to-use, feature-rich, customizable point of sale (POS) system. This quick, intuitive, and secure platform is a solution for small, mid-sized, and multi-location businesses."
         },
         {
-            "title": "Here I Am",
-            "iconUrl": "assets/projects/hereiam.png",
+            "title": "Bela",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.bugless.bela",
             "bannerUrl": "assets/projects/hereiamB.png",
-            "description": "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones."
+            "description": "A program to link service providers and beneficiaries within the scope of women's beauty centers"
         },
         {
-            "title": "COIVD 19 - Tracker",
-            "iconUrl": "assets/projects/covid.png",
+            "title": "Aqarmap",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.aqarmap.android",
             "bannerUrl": "assets/projects/covidB.png",
-            "description": "A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live."
-        },
-        {
-            "title": "Messenger Chat Head UI",
-            "iconUrl": "assets/projects/messenger.png",
-            "bannerUrl": "",
-            "description": "Tried to clone the famous Chat Heads by Facebook Messenger using Flutter. Its basically in-app not exactly like the original chat head."
-        },
-        {
-            "title": "flutter.dev - Flutter Web",
-            "iconUrl": "assets/projects/flutter.png",
-            "bannerUrl": "",
-            "description": "Flutter Official Site clone using Flutter Web. Try the live site here. For the time being its not responsive fully so there might be responsiveness issues."
-        },
-        {
-            "title": "Earbender",
-            "iconUrl": "assets/projects/earbender.png",
-            "bannerUrl": "",
-            "description": "A concept of Music App developed using Flutter. Having functionality of playing Audio."
-        },
-        {
-            "title": "File Transfer Protocol",
-            "iconUrl": "assets/projects/java.png",
-            "bannerUrl": "",
-            "description": "A simple GUI based Java application that sends file from Client to Server but not the other way around."
-        },
-        {
-            "title": "My Order",
-            "iconUrl": "assets/projects/android.png",
-            "bannerUrl": "",
-            "description": "A concept app for self-services at various restaurants now a days. More like a Restaurant Ordering System."
-        },
-        {
-            "title": "Hidev",
-            "iconUrl": "assets/services/open.png",
-            "bannerUrl": "",
-            "description": "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Developer Marcin Szałek and his blog Fidev."
+            "description": "Aqarmap app allows you to buy & sell your property. You can easily explore many properties with different prices, areas and types in different locations all over Egypt"
         }
     ],
     "contact": [
